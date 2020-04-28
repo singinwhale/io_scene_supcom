@@ -1,3 +1,16 @@
+bl_info = {
+    "name": "Supreme Commander SCM/SCA Importer/Exporter",
+    "author": "singinwhale",
+    "version": (1, 0, 0),
+    "blender": (2, 82, 0),
+    "location": "File -> Import, File -> Export",
+    "description": "Imports and Exports Supcom SCM and SCA and files",
+    "warning": "",
+    "wiki_url": "http://forums.gaspowered.com/"
+                "viewtopic.php?t=17286",
+    "category": "Import-Export",
+}
+
 def menu_func(self, context):
 
 

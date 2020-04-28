@@ -1,5 +1,5 @@
 #About
-This blender plugin has been developed as a modernization of the now very dated [blender plugin created by Oygoron](https://github.com/Oygron/SupCom_Import_Export_Blender) 
+This blender plugin has been developed as a modernization of the now very dated [blender plugin created by dan & Brent & Oygron](https://github.com/Oygron/SupCom_Import_Export_Blender) 
 and everybody who [forked](https://github.com/Oygron/SupCom_Import_Export_Blender/network/members) it. 
 The original plugin does not work on blender 2.80+ anymore and the API changes although somewhat transferable broke the plugin.
 Also, to be fair, the code quality is very very poor. 
