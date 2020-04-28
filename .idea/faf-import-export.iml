@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://D:/Steam/steamapps/common/Blender/2.82/scripts/addons">
+      <sourceFolder url="file://D:/Steam/steamapps/common/Blender/2.82/scripts/addons" isTestSource="false" />
+    </content>
+    <content url="file://D:/Steam/steamapps/common/Blender/2.82/scripts/modules">
+      <sourceFolder url="file://D:/Steam/steamapps/common/Blender/2.82/scripts/modules" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../blender-predefs">
+      <sourceFolder url="file://$MODULE_DIR$/../blender-predefs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/blender-predefs" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
