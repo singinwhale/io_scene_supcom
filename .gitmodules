@@ -1,0 +1,3 @@
+[submodule "PySupComIO"]
+    path=PySupComIO
+    url=https://github.com/singinwhale/PySupComIO.git
